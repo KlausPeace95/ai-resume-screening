@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: ai-resume-screening
+Version: 1.6.4
+Summary: extract text from any document. no muss. no fuss.
+Home-page: https://github.com/KlausPeace95
+Author: Klaus Peace
+Author-email: klauspeace95@gmail.com
+License: MIT
+Download-URL: https://github.com/KlausPeace95/ai-resume-screening
+Description: .. NOTES FOR CREATING A RELEASE:
+        ..
+        ..   * bumpversion {major|minor|patch}
+        ..   * git push && git push --tags
+        ..   * python setup.py sdist upload
+        ..   * convert into release https://github.com/KlausPeace95/ai-resume-screening
+
